@@ -33,7 +33,7 @@ message = client.messages.create(
 pip install pyinstaller
 ```
 ```bash
-pyinstaller --onefile -w main.py
+pyinstaller --onefile -w IPtool.py
 ```
 - **--onefile** makes the exe compact instead of having multiple files
 - **-w** hides the command prompt when the it is running
