@@ -39,6 +39,6 @@ pyinstaller --onefile -w main.py
 - **-w** hides the command prompt when the it is running
 # ⚠️DISCLAIMER/WARNING⚠️
 - **THIS IS FOR EDUCATIONAL PURPOSES ONLY**
-- This tool is not intended for malicious purposes, such as IP grabbing or any other form of cyber attack. I am not responsible for any misuse or damage.
-- Use at your own risk
+- I am not responsible for any misuse, damage, or illegal activities resulting from the use of this tool. The tool is provided as-is, without any warranty or guarantee of its accuracy, reliability, or suitability for any particular purpose.
+- By using this tool, you agree to use it at your own risk and take full responsibility for any consequences that may result from its use. It is your responsibility to ensure that you use the tool in compliance with all applicable laws and regulations.
 
